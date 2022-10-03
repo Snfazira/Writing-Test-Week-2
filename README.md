@@ -30,6 +30,7 @@
         Maka variabel hanya bisa diakses didalam blocks saja. Tidak bisa diakses diluar blocks.
 
         Seperti contoh ini :
+	
         ![a](2.png)
 
 ### __Js Dasar Function__
