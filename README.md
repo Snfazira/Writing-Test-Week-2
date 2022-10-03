@@ -42,11 +42,14 @@
     - Contoh nya seperti ini :
 
     ![a](3.png)
+    
     ![b](4.png)
 
 - Memanggil Function
     - Contoh nya seperti ini :
+    
     ![c](5.png)
+    
     ![d](6.png)
 
 - Parameter dan Argumen
@@ -55,6 +58,7 @@
         - Saat membuat function/fitur, kita harus tahu data-data yang dibutuhkan. Misalnya saat membuat function penambahan 2 buah nilai. Data yang dibutuhkan adalah 2 buah nilai tersebut.
 
         ![x](7.png)
+	
         ![x](8.png)
     
     - Argumen Function
@@ -63,7 +67,9 @@
         - Jadi jika di function penambahan ada 2 parameter nilai saat membuat function. Saat memanggil function kita gunakan 2 buah nilai argumen.
 
             Seperti contoh ini :
+	    
             ![d](9.png)
+	    
             ![d](10.png)
 
     - Default Parameters
@@ -72,23 +78,27 @@
          Default parameters bisa digunakan jika kita ingin menjaga function agar tidak error saat dipanggil tanpa argumen
 
             Seperti contoh ini :
+	    
             ![x](11.png)
 
     - Function Helper
         - Kita bisa menggunakan function yang sudah dibuat pada function lain.
 
             Seperti contoh ini :
+	    
             ![x](12.png)
 
     - Arrow Function
         - Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru yang ada pada ES6 (Javascript Version)
 
             Seperti contoh ini :
+	    
             ![c](13.png)
 
     - Short Syntax Function
         
         ![x](14.png)
+	
         ![x](15.png)
 
 <hr>
